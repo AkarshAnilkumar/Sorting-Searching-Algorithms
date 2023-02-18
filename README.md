@@ -19,7 +19,7 @@ This repository contains the following algorithms in **multiple languages** :
 
 
 ## Searching Algorithms
-  [BFS](https://github.com/4N1Z/Sorting-Searching-Algorithms/tree/main/Searching/BFS)
+- [BFS]
 - [Binary Search](https://github.com/4N1Z/Sorting-Searching-Algorithms/tree/main/Searching/Binary-Search)
 - [DFS](https://github.com/4N1Z/Sorting-Searching-Algorithms/tree/main/Searching/DFS)
 - [Exponential Search](https://github.com/Jovin247/Sorting-Searching-Algorithms/tree/main/Searching/Exponential-Search)
